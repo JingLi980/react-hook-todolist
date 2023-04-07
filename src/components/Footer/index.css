@@ -1,0 +1,9 @@
+.optcontainer{
+    height: 40px;
+    line-height: 40px;
+    padding-left: 6px;
+    margin-top: 5px;
+    position: relative;
+    border-top: 1px solid #ddd;
+}
+

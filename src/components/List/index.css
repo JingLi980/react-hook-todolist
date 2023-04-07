@@ -1,0 +1,15 @@
+.todo-list{
+    height: 36px;
+    line-height: 36px;
+    padding: 0 5px;
+
+    border-top: 1px solid #ddd;
+    margin-top: 15px;
+    padding-left: 14px;
+    position: relative;
+}
+.listright{
+    position: absolute;
+    right: 5px;
+    top: -2px;
+}
